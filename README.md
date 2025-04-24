@@ -129,7 +129,7 @@ $ ./sem.o
 
 $ ipcs
 
-![ex05-sem](./img/Screenshot%20at%202025-04-24%2009-01-50.png)
+![ex05-sem](./img/ex05.png)
 
 
 
